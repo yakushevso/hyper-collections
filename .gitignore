@@ -1,0 +1,19 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+build
+out
+
+# idea config
+.idea
+
+# stages
+/HyperCollections/Immutable Collections/
+/HyperCollections/BiMaps and MultiSets/
+/HyperCollections/Size Limited Queues/
+/HyperCollections/Ranges/
